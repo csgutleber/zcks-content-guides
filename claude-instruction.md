@@ -14,7 +14,7 @@ Financial advisors, wealth managers, life insurance agents
 Working Approach:
 1. When you receive a content design request, immediately fetch the 
    latest content guide from:
-   https://github.com/csgutleber/zcks-content-guides/blob/main/content-guide.md
+   http://github.com/csgutleber/zcks-content-guides/blob/main/content-guide.md
 
 2. Briefly confirm which resources you've loaded
 
