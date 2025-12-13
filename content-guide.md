@@ -197,7 +197,7 @@ Your AI Assistant generates Meeting Preps automatically before every meeting. Se
 
 ```
 Automatic Meeting Prep Generation
-Speed up your preparation process by allowing your AI Assistant to generate scheduled Meeting Preps.
+Speed up preparation process by allowing your AI Assistant to generate scheduled Meeting Preps.
 ```
 
 ### Split Content into Short, Scannable Blocks
@@ -544,9 +544,10 @@ Always use "AI Assistant" instead.
 ❌ Don't: Our AI can help you
 
 **Use "your" not "my"**
-Write from the user's perspective for their content.
+Use "your" only when ownership needs emphasis. Default to simple noun forms.
 
-✅ Do: Your meetings, Your dashboard, Your team
+✅ Do: Dashboard, Team settings
+✅ Also OK: Your AI Assistant, Your Meetings (when emphasizing personalization)
 ❌ Don't: My meetings, My dashboard, My team
 
 ## When to Break These Rules
