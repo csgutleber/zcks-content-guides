@@ -33,7 +33,7 @@ People have different reading abilities and industry knowledge. Simple words are
 - Helps people with impairments
 - Improves the localization process
 
-**How?**
+**Guidelines:**
 
 - Use the simplest, shortest word or phrase
 - Remove redundant or repeated words
@@ -50,7 +50,7 @@ People have different reading abilities and industry knowledge. Simple words are
 
 People may not understand a term without extra description.
 
-**How?**
+**Guidelines:**
 
 - Avoid them unless you need to
 - If you do need to use them, explain them in the clearest way possible
@@ -69,7 +69,7 @@ Choose the right meeting type for your workflow. You can preset configurations, 
 
 To resonate best with the audience, content needs to feel human and natural.
 
-**How?**
+**Guidelines:**
 
 - Write to a single reader using an active voice
 - Write as you'd talk without being colloquial
@@ -88,7 +88,7 @@ To resonate best with the audience, content needs to feel human and natural.
 
 People may not know what an abbreviation or acronym means.
 
-**How?**
+**Guidelines:**
 
 - Avoid them where possible, unless they're globally recognized
 - Write the phrase in full the first time they appear
@@ -106,7 +106,7 @@ People may not know what an abbreviation or acronym means.
 
 People come to us for work, not leisure. They need help to make decisions and progress.
 
-**How?**
+**Guidelines:**
 
 - Think about the job to be done
 - Clearly explain the actions needed to progress
@@ -123,7 +123,7 @@ People come to us for work, not leisure. They need help to make decisions and pr
 
 People choose to use our services. Remind them why.
 
-**How?**
+**Guidelines:**
 
 - Make it clear why something benefits the audience
 - Explain the value or opportunity
@@ -133,7 +133,7 @@ People choose to use our services. Remind them why.
 
 Improving content usability can be as easy as 1, 2, 3.
 
-**How?**
+**Guidelines:**
 
 - Use numerals for 10 and above, and for all technical or data-driven contexts. Single digits can be spelled out when it improves readability.
 - Write "to" or "and" instead of hyphens for ranges
@@ -177,7 +177,7 @@ Audiences have varied backgrounds. We need to recognize and represent them.
 
 People scan signposts to find key information.
 
-**How?**
+**Guidelines:**
 
 - Use descriptive and functional language
 - Front load keywords as best as possible
@@ -225,7 +225,7 @@ People have busy days. Help them focus with smaller chunks of information.
 
 Linear storytelling creates a coherent, logical flow of information.
 
-**How:**
+**Guidelines:**
 
 - Stick to 1 or 2 key messages per paragraph
 - Use short paragraphs up to 4 sentences
@@ -235,7 +235,7 @@ Linear storytelling creates a coherent, logical flow of information.
 
 Web pages typically have 3 seconds to keep people engaged.
 
-**How:**
+**Guidelines:**
 
 - Start with the most important information for the audience
 - Use headings and subheadings to signpost the big idea
@@ -251,7 +251,7 @@ Web pages typically have 3 seconds to keep people engaged.
 
 Hyperlinks and buttons can make or break audience engagement.
 
-**How:**
+**Guidelines:**
 
 - Provide clear context
 - Use action (verb) + object (noun) structure
@@ -272,7 +272,7 @@ Hyperlinks and buttons can make or break audience engagement.
 
 People open tooltips if they need to know more.
 
-**How?**
+**Guidelines:**
 
 - Signpost tooltip text with a heading
 - Front load keywords
@@ -282,7 +282,7 @@ People open tooltips if they need to know more.
 
 When we ask people to do the work, help them work smart.
 
-**How:**
+**Guidelines:**
 
 - Signpost fields with a label and hint text
 - Labels should be up to 4 words
@@ -304,7 +304,7 @@ Please use XXXXX XXXXXX format
 
 Effective error messages can be the difference between task success and drop off.
 
-**How:**
+**Guidelines:**
 
 - Clearly explain the error and action needed to fix it
 - Use an active voice
@@ -323,7 +323,7 @@ Effective error messages can be the difference between task success and drop off
 
 People come to us to complete a task. They need to scan key information fast.
 
-**How:**
+**Guidelines:**
 
 - Use bullet points to split up long sentences or paragraphs
 - Keep to 1 message per bullet
@@ -334,7 +334,7 @@ People come to us to complete a task. They need to scan key information fast.
 
 Use hyphens only when needed for clarity. Avoid them in ranges (use 'to' instead) and avoid unnecessary e-prefixes.
 
-**How:**
+**Guidelines:**
 
 - Rephrase the sentence or use full stops or commas
 - Do not use them to reference something electronic
@@ -350,7 +350,7 @@ Use hyphens only when needed for clarity. Avoid them in ranges (use 'to' instead
 
 Exclamations add emphasis and emotion but may not be read as intended.
 
-**How:**
+**Guidelines:**
 
 - Use one exclamation mark for genuine success moments and celebrations
 - Never use multiple exclamation marks (!!)
@@ -368,7 +368,7 @@ Exclamations add emphasis and emotion but may not be read as intended.
 
 People need information that's easy to understand.
 
-**How:**
+**Guidelines:**
 
 - Use full stops at the end of sentences as normal
 - Use them instead of commas as much as possible
@@ -382,7 +382,7 @@ People need information that's easy to understand.
 
 Complex sentence structures take extra effort to read.
 
-**How:**
+**Guidelines:**
 
 - Rephrase your sentences to remove the need for commas
 - Use full stops instead to split your sentence
@@ -393,7 +393,7 @@ Complex sentence structures take extra effort to read.
 
 People prefer content written how they speak.
 
-**How:**
+**Guidelines:**
 
 - Do not use them unless they're part of a proper noun
 - Write "and" in full
@@ -412,7 +412,7 @@ People prefer content written how they speak.
 
 Our brains scan and recognize word shapes. Changes in text style can impact that.
 
-**How:**
+**Guidelines:**
 
 - Use bold in titles and subtitles
 - Use bold sparingly to emphasize critical information users need to find quickly
@@ -430,7 +430,7 @@ Our brains scan and recognize word shapes. Changes in text style can impact that
 
 Some contractions help make content more human and conversational.
 
-**How:**
+**Guidelines:**
 
 - Use positive contractions (You'll, It's, There's)
 - Use negative contractions (Don't, Can't, Won't, Isn't)
@@ -441,7 +441,7 @@ Some contractions help make content more human and conversational.
 
 They're small and subtle but can significantly increase content length.
 
-**How:**
+**Guidelines:**
 
 - Rephrase sentences to reduce conjunctions
 - Remove them if it does not change the message
@@ -451,7 +451,7 @@ They're small and subtle but can significantly increase content length.
 
 People have different reading abilities. Simple sentences are inclusive for all.
 
-**How:**
+**Guidelines:**
 
 - Use up to 2 per sentence
 - Avoid introductory clauses where possible
@@ -467,7 +467,7 @@ People have different reading abilities. Simple sentences are inclusive for all.
 
 Our brains scan and recognize word shapes. Capitalization can affect that.
 
-**How:**
+**Guidelines:**
 
 - Do not capitalize whole words or phrases unless it's an initialism
 - Only use sentence case capitalization unless it's a proper noun
@@ -482,12 +482,24 @@ Our brains scan and recognize word shapes. Capitalization can affect that.
 
 Our content supports the audience's perspective. Talk with them. Not at them.
 
-**How:**
+**Guidelines:**
+- Write to a single reader in active voice
+- Use second person when it adds clarity or personal connection
+- Use first person when we need to take action or own an issue
+- Default to imperative mood for actions (shorter, clearer)
+- Avoid third person unless writing for SEO
 
-- Write to a single reader using an active voice
-- Use second person narrative as much as possible (Your account, You can edit)
-- Use first person only if we need to take action (We couldn't load your results)
-- Avoid third person narrative unless writing for SEO
+**When to use "you/your":**
+- Personal actions: "View your meeting history"
+- Questions: "Need help?"
+- Ownership emphasis: "Your AI Assistant"
+- Error context involving user data: "We couldn't sync your calendar"
+
+**When to skip "you/your":**
+- UI labels: "Dashboard" not "Your Dashboard"
+- Button text: "Save changes" not "Save your changes"
+- Clear imperatives: "Edit settings" not "You can edit your settings"
+- General instructions: "Click Save" not "You should click Save"
 
 ## Visual Content
 
@@ -495,7 +507,7 @@ Our content supports the audience's perspective. Talk with them. Not at them.
 
 Icons are effective content elements but not everyone will know what they mean.
 
-**How:**
+**Guidelines:**
 
 - Include text labels with icons
 - Use actionable language where possible
@@ -511,7 +523,7 @@ Icons are effective content elements but not everyone will know what they mean.
 
 Emojis can add emotion but may not be understood how they're intended.
 
-**How:**
+**Guidelines:**
 
 - Use words instead of emojis where possible
 
@@ -519,7 +531,7 @@ Emojis can add emotion but may not be understood how they're intended.
 
 Complex charts and graphs can be hard to follow. Use text to tell the story.
 
-**How:**
+**Guidelines:**
 
 - Add a summary of the data as a caption on screen
 - Use the simplest, shortest words
@@ -546,8 +558,8 @@ Always use "AI Assistant" instead.
 **Use "your" not "my"**
 Use "your" only when ownership needs emphasis. Default to simple noun forms.
 
-✅ Do: Dashboard, Team settings
-✅ Also OK: Your AI Assistant, Your Meetings (when emphasizing personalization)
+✅ Do: Dashboard, Team settings, Meetings
+✅ Also OK: Your AI Assistant, View your history (when emphasizing personalization)
 ❌ Don't: My meetings, My dashboard, My team
 
 ## When to Break These Rules
